@@ -1,10 +1,10 @@
 # sobre bieldumal
 
 
-- 👋 Olá , meu nome é @bieldumal
-- 👍 Meu email de contato é @lucaskelvin898@gmail.com
-- 👍 Eu estou interessado em aprender programar novas linguagens .
-- 👍 Eu estou aprendendo a programar  recentemente a linguagem de JavaScript e Scratch .
+- 👋 **Olá , meu nome é @bieldumal**.
+- 👍 **Meu email de contato é @lucaskelvin898@gmail.com**.
+- 👍 **Eu estou interessado em aprender programar novas linguagens**.
+- 👍 **Eu estou aprendendo a programar  recentemente a linguagem de JavaScript e Scratch**.
 
 
 <!---
