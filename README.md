@@ -2,7 +2,7 @@
 
 
 - 👋 **Olá , meu nome é @bieldumal**.
-- 👍 **Meu email de contato é [email](@lucaskelvin898@gmail.com**).
+- 👍 **Meu email de contato é [email](@lucaskelvin898@gmail.com).**
 - 👍 **Eu estou interessado em aprender programar novas linguagens**.
 - 👍 **Eu estou aprendendo a programar  recentemente a linguagem de JavaScript e Scratch**.
 
